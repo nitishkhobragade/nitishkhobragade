@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
+
 <h1 align="center">Hi 👋, I'm Nitish Khobragade</h1>
 <h3 align="center">Computer Science graduate specializing in Front End Web Development (HTML, CSS, JavaScript, PHP, SQL).</h3>
 
